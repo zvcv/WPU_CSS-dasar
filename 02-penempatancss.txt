@@ -1,0 +1,11 @@
+cara penempatan class
+
+- embed
+<style></style>
+
+- inline
+<p style="color: lightblue;"> ... </p>
+
+- external
+<link rel="stylesheet" href="style.css">
+

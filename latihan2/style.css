@@ -1,0 +1,25 @@
+h1 {
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif; /* css akan mencari font arial di browser user, kalo gaada ke helvetica, kalo gaada ke sans-serif */
+}
+
+/*
+    shorthand
+    daripada banyak line, bisa juga gini:
+
+    h1 {
+        font: italic normal bold 16px/18px helvetica, arial, sans-serif;
+        harus urut:
+        font: font-style font-variant font-weight font-size line-height font-family;
+    }
+*/
+
+p {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+

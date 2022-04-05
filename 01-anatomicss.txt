@@ -1,0 +1,18 @@
+selector { property : value; }
+
+selector {
+    property : value;
+}
+
+h1 {
+    color: blue;
+    font-family: "Courier New";
+    ...
+    ...
+    ...
+}
+
+selector:
+- digunakan untuk memilih dan memanipulasi elemen spesifik pada HTML
+- elemen HTML dipilih berdasarkan tag, id, class, bahkan pola/ pattern
+- semakin kompleks struktur HTML, selector juga bisa semakin kompleks/ spesifik
