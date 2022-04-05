@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    background-image: url(img/bg1.jpg); /* secara default gambar background akan diulang terhadap sumbu x dan y */
+    /* cari pola gambar yang oke bisa di subtlepatterns.com */
+    background-repeat: repeat-x; /* hanya akan mengulang horizontally, sumbu x */
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+/*
+    shorthand:
+    background: color url() position repeat;
+    background: white url(img/bg2.jpg) no-repeat top right;
+*/

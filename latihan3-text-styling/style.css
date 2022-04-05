@@ -1,0 +1,18 @@
+h1 {
+    font-size: 100px;
+    color: skyblue; /* color bisa langsung nama warna, bisa hexadecimal, bisa rgb */
+    text-decoration: underline overline; /* bisa langsung lebih dari 1 */
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+    text-indent: 100px; /* untuk menambah jarak awal paragraf */
+    text-transform: capitalize; /* awal tiap kata hurup besar */
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+a {
+    text-decoration: none;
+}
